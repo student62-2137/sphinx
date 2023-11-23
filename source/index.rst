@@ -13,6 +13,7 @@ Welcome to Edytory Tekstu's documentation!
    chapters/introduction
    chapters/nano
    chapters/vim
+   chapters/emacs
 
 
 
